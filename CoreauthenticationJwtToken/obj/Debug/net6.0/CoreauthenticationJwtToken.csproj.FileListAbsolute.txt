@@ -1,0 +1,7 @@
+C:\Users\Archents\source\repos\CoreauthenticationJwtToken\CoreauthenticationJwtToken\obj\Debug\net6.0\CoreauthenticationJwtToken.csproj.AssemblyReference.cache
+C:\Users\Archents\source\repos\CoreauthenticationJwtToken\CoreauthenticationJwtToken\obj\Debug\net6.0\CoreauthenticationJwtToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archents\source\repos\CoreauthenticationJwtToken\CoreauthenticationJwtToken\obj\Debug\net6.0\CoreauthenticationJwtToken.AssemblyInfoInputs.cache
+C:\Users\Archents\source\repos\CoreauthenticationJwtToken\CoreauthenticationJwtToken\obj\Debug\net6.0\CoreauthenticationJwtToken.AssemblyInfo.cs
+C:\Users\Archents\source\repos\CoreauthenticationJwtToken\CoreauthenticationJwtToken\obj\Debug\net6.0\CoreauthenticationJwtToken.csproj.CoreCompileInputs.cache
+C:\Users\Archents\source\repos\CoreauthenticationJwtToken\CoreauthenticationJwtToken\obj\Debug\net6.0\CoreauthenticationJwtToken.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Archents\source\repos\CoreauthenticationJwtToken\CoreauthenticationJwtToken\obj\Debug\net6.0\CoreauthenticationJwtToken.MvcApplicationPartsAssemblyInfo.cache
